@@ -1,6 +1,7 @@
 # textclassificationFR
 Build French Text Classifiers 
-
+In this project we will build different Text Classifiers to Classify texts in different categories.
+The texts are in French. 
 
 First create a Conda virtual environment using:
 
